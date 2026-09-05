@@ -1,0 +1,3 @@
+Név
+Számítógép konfigurációja
+Felhasználó konfigurációja
